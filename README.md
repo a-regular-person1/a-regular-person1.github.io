@@ -15,6 +15,7 @@
       
       #fontExample {
       font-family: sans
+      font-size = 17px
       }
     </style>
   </head>
@@ -29,7 +30,7 @@
     <h2>The Real Website</h2>
     <p>
       This is the point where i attempt to actually show programing skills i learned like <class id = "stuff">this</class> where there is different colors and effects on the page. that was just a simple color change to show off that i can use CSS in HTML pages. unfortunatley due to some strange reason I cannot use buttons on this website despite trying many things to demenstrate some JS knowladge but the code used for the button turns into text.<br>
-      so instead im going to do more CSS and HTML tricks until i figure out JS. <class id = "fontExample">this whole text should be a different font or font size 
+      so instead im going to do more CSS and HTML tricks until i figure out JS. <class id = "fontExample">this whole text should be a different font or font size</class> 
     </p>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script>
