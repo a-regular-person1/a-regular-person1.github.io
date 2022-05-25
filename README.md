@@ -36,6 +36,9 @@
       <br>
       
       https://www.khanacademy.org/computer-programming/spin-off-of-project-scene-change/5742117736464384 here is a slide show i made 
+      
+      <br>
+      Special thank you to Mr. Ike for being a great teacher.
     </p>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script>
