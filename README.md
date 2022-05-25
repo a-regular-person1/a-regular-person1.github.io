@@ -5,6 +5,10 @@
       color:rgb(255, 0, 0)
       }
       
+      h2{
+      color:rgb(0,0,255)
+      }
+      
       #stuff{
       background-color:rgb(0,0,255)
       }
@@ -21,13 +25,11 @@
     
     <h2>The Real Website</h2>
     <p>
-      This is the point where i attempt to actually show programing skills i learned like <class id = "stuff">this</class> where there is different colors and effects on the page. that was just a simple color change to show off that i can use CSS in HTML pages. to show that i can also do stuff in java script I will also have a blueification button that turns a bunch of random words blue right here <button type = "button" id = "blueify> blueify</button>
+      This is the point where i attempt to actually show programing skills i learned like <class id = "stuff">this</class> where there is different colors and effects on the page. that was just a simple color change to show off that i can use CSS in HTML pages. unfortunatley due to some strange reason I cannot use buttons on this website despite trying many things to demenstrate some JS knowladge but the code used for the button turns into text.
     </p>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script>
-      $("#blueify").on("click", function(){
-        color = "blue"
-        });
+
     </script>
   </body>
 </html>
