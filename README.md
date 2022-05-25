@@ -7,6 +7,7 @@
     </style>
   </head>
   <body>
+    <!-this is a test comment just to make sure i got it right-!>
     <h1>struggles with the website</h1>
     <p>Hello world! This text is the first lines of code in my final project for computer science. <br>
     However due to not much time and having no experience actually making a website this is going to have to be half baked and probably grade floored. <br>
